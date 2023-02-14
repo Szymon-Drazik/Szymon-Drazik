@@ -1,7 +1,10 @@
-### Hi there 👋 I'm Szymon Drazik
+### Hi there 👋
 
 I'm technical school student and I like programming games.
 
+- 🎮 I’m currently learning Unreal Engine 5
+
+-📧 How to reach me: szymondr033@gmail.com
 
 <!--
 **Szymon-Drazik/Szymon-Drazik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
