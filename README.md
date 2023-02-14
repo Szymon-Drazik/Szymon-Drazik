@@ -1,10 +1,13 @@
 ### Hi there 👋
+- - -
 
-I'm technical school student and I like programming games.
-
+I'm technical school student and I like programming games. I don't have job experience, but I'm looking forward to learn new things.
+- - -
 - 🎮 I’m currently learning Unreal Engine 5
-
--📧 How to reach me: szymondr033@gmail.com
+- - -
+#### Here are some of my projects 👨‍💻
+- - -
+### 📧 How to reach me: szymondr033@gmail.com
 
 <!--
 **Szymon-Drazik/Szymon-Drazik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
