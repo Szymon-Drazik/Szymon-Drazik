@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Szymon Drazik
 
+I'm technical school student and I like programming games.
 
 
 <!--
