@@ -4,7 +4,7 @@ I'm technical school student and I like programming games. I don't have job expe
 - - -
 
 - 🎮 I’m currently learning Unreal Engine 5
-
+- 👨🏻‍💻 I know c++ well
 - - -
 
 #### Here are some of my projects 👨‍💻
