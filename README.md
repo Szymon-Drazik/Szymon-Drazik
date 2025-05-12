@@ -5,7 +5,6 @@ I'm CS student at Opole University of Technology who enjoys learning how things 
 - 🎮 Unreal Engine 5
 - 👨🏻‍💻 C++
 - 🔐 New to cybersecurity, just exploring and having fun.
-- 
 - - -
 
 #### Here are some of my projects 👨‍💻
