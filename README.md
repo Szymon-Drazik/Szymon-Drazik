@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I'm technical school student and I like programming games. I don't have job experience, but I'm looking forward to learn new things.
-- - -
+I'm CS student at Opole University of Technology who enjoys learning how things work.
 
-- 🎮 I’m currently learning Unreal Engine 5
-- 👨🏻‍💻 I know c++ well
+- 🎮 Unreal Engine 5
+- 👨🏻‍💻 C++
+- 🔐 New to cybersecurity, just exploring and having fun.
+- 
 - - -
 
 #### Here are some of my projects 👨‍💻
