@@ -9,9 +9,14 @@ I'm CS student at Opole University of Technology who enjoys learning how things 
 
 #### Here are some of my projects 👨‍💻
 
-- - -
+---
 
-#### 📧 How to reach me: szymondr033@gmail.com
+### 📫 How to reach me: 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TUTAJ_WKLEJ_SWOJ_LINK)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:szymondr033@gmail.com)
+
+
 
 
 <!--
