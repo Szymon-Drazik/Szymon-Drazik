@@ -13,7 +13,7 @@ I'm CS student at Opole University of Technology who enjoys learning how things 
 
 ### 📫 How to reach me: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TUTAJ_WKLEJ_SWOJ_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-drazik-143256212/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:szymondr033@gmail.com)
 
 
